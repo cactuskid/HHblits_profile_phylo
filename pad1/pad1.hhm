@@ -2,7 +2,7 @@ HHsearch 1.5
 NAME  Florida_lancelet/1-578
 FAM   
 COM   hhmake -i ./pad1/pad1_allseqs.clip.aln.fasta -o ./pad1/pad1.hhm -M 50 
-DATE  Wed Apr 22 13:55:17 2020
+DATE  Mon May  4 18:44:17 2020
 LENG  631 match states, 840 columns in multiple alignment
 
 FILT  31 out of 34 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20 -diff 100)

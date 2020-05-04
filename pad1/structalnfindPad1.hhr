@@ -3,7 +3,7 @@ Match_columns 631
 No_of_seqs    574 out of 647
 Neff          5.83947
 Searched_HMMs 1132
-Date          Wed Apr 22 13:58:05 2020
+Date          Mon May  4 18:47:28 2020
 Command       hhblits -cpu 8 -d /home/cactuskid13/mntpt/HHBLITsdb/uniclust30_2018_08/uniclust30_2018_08 -i ./pad1/pad1.hhm -o ./pad1/structalnfindPad1.hhr -n 3 -B 2000 -Z 2000 -mact .5 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
